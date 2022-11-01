@@ -12,38 +12,40 @@ public class LectureSchedulerEasyScoreCalculator implements EasyScoreCalculator<
         int hardScore = 0, softScore = 0;
         for (Lecture lecture1: lectureSchedule.getLectureList()) {
             for (Lecture lecture2: lectureSchedule.getLectureList()) {
+                if (!lecture1.equals(lecture2)) {
+                    // vienlaicigas lekcijas
+                    if (lecture1.getTimeSlot() != null && lecture1.getTimeSlot().equals(lecture2.getTimeSlot())) {
 
-                // vienlaicigas lekcijas
-                if (lecture1.getTimeSlot() != null && lecture1.getTimeSlot().equals(lecture2.getTimeSlot())) {
+                        // viena telpa
+                        if (lecture1.getRoom().equals(lecture2.getRoom())) {
+                            hardScore--;
+                        }
 
-                    // viena telpa
-                    if (lecture1.getRoom().equals(lecture2.getRoom())) {
-                        hardScore--;
+                        // viens pasniedzejs
+                        if (lecture1.getTeacher().equals(lecture2.getTeacher())) {
+                            hardScore--;
+                        }
+
+                        // viens un tas pats students
+                        if (lecture1.getRegistered().stream().anyMatch(lecture2.getRegistered()::contains)) {
+                            hardScore--;
+                        }
                     }
 
-                    // viens pasniedzejs
+                    // tas pats pasniedzejs
                     if (lecture1.getTeacher().equals(lecture2.getTeacher())) {
-                        hardScore--;
-                    }
+                        // nav taa pati telpa
+                        if (lecture1.getRoom() != null && !lecture1.getRoom().equals(lecture2.getRoom())) {
+                            softScore--;
+                        }
 
-                    // viens un tas pats students
-                    if (lecture1.getRegistered().stream().anyMatch(lecture2.getRegistered()::contains)) {
-                        hardScore--;
+                        // nav taa pati diena
+                        if (lecture1.getTimeSlot() != null && lecture2.getTimeSlot() != null && !lecture1.getTimeSlot().getDayOfWeek().equals(lecture2.getTimeSlot().getDayOfWeek())) {
+                            softScore--;
+                        }
                     }
                 }
 
-                // tas pats pasniedzejs
-                if (lecture1.getTeacher().equals(lecture2.getTeacher())) {
-                    // nav taa pati telpa
-                    if (lecture1.getRoom() != null && !lecture1.getRoom().equals(lecture2.getRoom())) {
-                        softScore--;
-                    }
-
-                    // nav taa pati diena
-                    if (lecture1.getTimeSlot() != null && lecture2.getTimeSlot() != null && !lecture1.getTimeSlot().getDayOfWeek().equals(lecture2.getTimeSlot().getDayOfWeek())) {
-                        softScore--;
-                    }
-                }
             }
             // pietiekosi liela telpa
             if (lecture1.getRoom() != null && lecture1.getRoom().getMaxNumberOfStudents() < lecture1.getRegistered().size()) {

@@ -26,4 +26,9 @@ public class Room {
     public void setMaxNumberOfStudents(Integer maxNumberOfStudents) {
         this.maxNumberOfStudents = maxNumberOfStudents;
     }
+
+    @Override
+    public String toString() {
+        return this.getCode();
+    }
 }

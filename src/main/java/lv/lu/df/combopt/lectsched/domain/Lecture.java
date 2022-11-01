@@ -1,6 +1,7 @@
 package lv.lu.df.combopt.lectsched.domain;
 
 import org.optaplanner.core.api.domain.entity.PlanningEntity;
+import org.optaplanner.core.api.domain.lookup.PlanningId;
 import org.optaplanner.core.api.domain.variable.PlanningVariable;
 
 import java.util.LinkedList;
@@ -8,6 +9,7 @@ import java.util.List;
 
 @PlanningEntity
 public class Lecture {
+    @PlanningId
     private String subject;
     @PlanningVariable(valueRangeProviderRefs = "rooms")
     private Room room;
@@ -66,5 +68,10 @@ public class Lecture {
 
     public void setTeacher(Teacher teacher) {
         this.teacher = teacher;
+    }
+
+    @Override
+    public String toString() {
+        return this.getSubject();
     }
 }

@@ -1,6 +1,8 @@
 package lv.lu.df.combopt.lectsched;
 
 import lv.lu.df.combopt.lectsched.domain.*;
+import org.optaplanner.core.api.score.ScoreManager;
+import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScore;
 import org.optaplanner.core.api.solver.Solver;
 import org.optaplanner.core.api.solver.SolverFactory;
 import org.optaplanner.core.config.solver.SolverConfig;
@@ -29,6 +31,9 @@ public class App {
         Solver<LectureSchedule> solver = solverFactory.buildSolver();
         LectureSchedule solution = solver.solve(problem);
 
+        ScoreManager<LectureSchedule, HardSoftScore> scoreManager = ScoreManager.create(solverFactory);
+        LOGGER.debug(scoreManager.explainScore(solution).getSummary());
+
         // Visualize the solution
         printSchedule(solution);
     }
@@ -53,7 +58,7 @@ public class App {
 
         List<Room> roomList = new LinkedList<>();
         roomList.add(new Room("13", 2));
-        roomList.add(new Room("16", 2));
+        roomList.add(new Room("16", 1));
 
         List<Lecture> lectureList = new LinkedList<>();
         lectureList.add(new Lecture("Algoritmi",null , null ,first,profV));
