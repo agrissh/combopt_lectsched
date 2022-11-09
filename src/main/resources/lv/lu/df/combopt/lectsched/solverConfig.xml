@@ -24,16 +24,15 @@
 
     <termination>
         <terminationCompositionStyle>OR</terminationCompositionStyle>
-        <secondsSpentLimit>5</secondsSpentLimit>
+        <millisecondsSpentLimit>250</millisecondsSpentLimit>
         <bestScoreLimit>0hard/0soft</bestScoreLimit>
     </termination>
 
     <constructionHeuristic>
-        <constructionHeuristicType>FIRST_FIT</constructionHeuristicType>
+        <constructionHeuristicType>FIRST_FIT_DECREASING</constructionHeuristicType>
     </constructionHeuristic>
 
     <localSearch>
-        <swapMoveSelector />
     </localSearch>
 
     <!-- To scale out, replace <localSearch> with this configuration: -->

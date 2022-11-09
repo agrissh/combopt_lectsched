@@ -7,7 +7,7 @@
         </encoder>
     </appender>
 
-    <logger name="org.optaplanner" level="debug"/>
+    <logger name="org.optaplanner" level="trace"/>
     <logger name="lv.lu.df.combopt.lectsched" level="debug"/>
 
     <root level="info">

@@ -7,7 +7,7 @@ import org.optaplanner.core.api.domain.variable.PlanningVariable;
 import java.util.LinkedList;
 import java.util.List;
 
-@PlanningEntity
+@PlanningEntity(difficultyComparatorClass = LectureComparator.class)
 public class Lecture {
     @PlanningId
     private String subject;
