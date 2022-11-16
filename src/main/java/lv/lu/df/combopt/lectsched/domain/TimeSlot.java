@@ -1,9 +1,15 @@
 package lv.lu.df.combopt.lectsched.domain;
 
+import com.fasterxml.jackson.annotation.JsonIdentityInfo;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators;
+
 import java.time.DayOfWeek;
 import java.time.LocalTime;
 
+@JsonIdentityInfo(generator = ObjectIdGenerators.PropertyGenerator.class,
+        property = "id")
 public class TimeSlot {
+    private Integer id;
     private DayOfWeek dayOfWeek;
     private LocalTime startTime;
     private LocalTime endTime;
@@ -44,5 +50,13 @@ public class TimeSlot {
     @Override
     public String toString() {
         return this.getStartTime().toString();
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 }

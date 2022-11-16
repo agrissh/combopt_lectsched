@@ -41,6 +41,26 @@
             <scope>runtime</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.optaplanner</groupId>
+            <artifactId>optaplanner-benchmark</artifactId>
+        </dependency>
+
+        <!--  https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310  -->
+        <dependency>
+            <groupId>com.fasterxml.jackson.datatype</groupId>
+            <artifactId>jackson-datatype-jsr310</artifactId>
+            <version>2.14.0</version>
+        </dependency>
+
+
+        <!--  https://mvnrepository.com/artifact/org.optaplanner/optaplanner-persistence-jackson  -->
+        <dependency>
+            <groupId>org.optaplanner</groupId>
+            <artifactId>optaplanner-persistence-jackson</artifactId>
+            <version>8.30.0.Final</version>
+        </dependency>
+
         <!-- Testing -->
         <dependency>
             <groupId>org.optaplanner</groupId>

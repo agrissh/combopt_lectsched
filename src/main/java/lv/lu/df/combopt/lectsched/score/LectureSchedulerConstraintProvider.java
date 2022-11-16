@@ -2,6 +2,7 @@ package lv.lu.df.combopt.lectsched.score;
 
 import lv.lu.df.combopt.lectsched.domain.Lecture;
 import lv.lu.df.combopt.lectsched.domain.Room;
+import lv.lu.df.combopt.lectsched.domain.Teacher;
 import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScore;
 import org.optaplanner.core.api.score.stream.Constraint;
 import org.optaplanner.core.api.score.stream.ConstraintFactory;
@@ -28,10 +29,18 @@ public class LectureSchedulerConstraintProvider implements ConstraintProvider {
         };
     }
 
-    private Constraint sameRoomTeacher(ConstraintFactory constraintFactory) {
+    private Constraint sameRoomTeacher2(ConstraintFactory constraintFactory) {
         return constraintFactory
                 .forEachUniquePair(Lecture.class, equal(Lecture::getTeacher))
                 .filter((l1,l2)->!l1.getRoom().equals(l2.getRoom()))
+                .penalize(HardSoftScore.ONE_SOFT)
+                .asConstraint("same Room for Teacher");
+    }
+
+    private Constraint sameRoomTeacher(ConstraintFactory constraintFactory) {
+        return constraintFactory
+                .forEach(Teacher.class)
+                .filter(teacher -> teacher.getRoomList().size() > 1)
                 .penalize(HardSoftScore.ONE_SOFT)
                 .asConstraint("same Room for Teacher");
     }

@@ -1,6 +1,8 @@
 package lv.lu.df.combopt.lectsched;
 
 import lv.lu.df.combopt.lectsched.domain.*;
+import org.optaplanner.benchmark.api.PlannerBenchmark;
+import org.optaplanner.benchmark.api.PlannerBenchmarkFactory;
 import org.optaplanner.core.api.score.ScoreManager;
 import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScore;
 import org.optaplanner.core.api.solver.Solver;
@@ -28,14 +30,23 @@ public class App {
         LectureSchedule problem = generateData();
 
         // Solve the problem
-        Solver<LectureSchedule> solver = solverFactory.buildSolver();
-        LectureSchedule solution = solver.solve(problem);
-
-        ScoreManager<LectureSchedule, HardSoftScore> scoreManager = ScoreManager.create(solverFactory);
-        LOGGER.debug(scoreManager.explainScore(solution).getSummary());
+        //Solver<LectureSchedule> solver = solverFactory.buildSolver();
+        //LectureSchedule solution = solver.solve(problem);
+        /*PlannerBenchmarkFactory benchmarkFactory = PlannerBenchmarkFactory.createFromSolverConfigXmlResource(
+                "lv/lu/df/combopt/lectsched/solverConfig.xml");
+        PlannerBenchmark benchmark = benchmarkFactory.buildPlannerBenchmark(
+                problem, problem, problem);
+        benchmark.benchmarkAndShowReportInBrowser();
+        */
+        PlannerBenchmarkFactory benchmarkFactory = PlannerBenchmarkFactory.createFromXmlResource(
+                "lv/lu/df/combopt/lectsched/benchmarkConfig.xml");
+        PlannerBenchmark benchmark = benchmarkFactory.buildPlannerBenchmark();
+        benchmark.benchmarkAndShowReportInBrowser();
+        //ScoreManager<LectureSchedule, HardSoftScore> scoreManager = ScoreManager.create(solverFactory);
+        //LOGGER.debug(scoreManager.explainScore(solution).getSummary());
 
         // Visualize the solution
-        printSchedule(solution);
+        //printSchedule(solution);
     }
 
     public static LectureSchedule generateData() {

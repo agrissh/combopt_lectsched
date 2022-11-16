@@ -1,5 +1,7 @@
 package lv.lu.df.combopt.lectsched.domain;
 
+import com.fasterxml.jackson.annotation.JsonIdentityInfo;
+import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 import org.optaplanner.core.api.domain.entity.PlanningEntity;
 import org.optaplanner.core.api.domain.lookup.PlanningId;
 import org.optaplanner.core.api.domain.variable.PlanningVariable;
@@ -8,6 +10,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 @PlanningEntity(difficultyComparatorClass = LectureComparator.class)
+@JsonIdentityInfo(generator = ObjectIdGenerators.PropertyGenerator.class,
+        property = "subject")
 public class Lecture {
     @PlanningId
     private String subject;

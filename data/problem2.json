@@ -1,0 +1,2895 @@
+{
+  "lectureList" : [ {
+    "subject" : "Lect1",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student47"
+    }, {
+      "name" : "Student52"
+    }, {
+      "name" : "Student54"
+    }, {
+      "name" : "Student65"
+    }, {
+      "name" : "Student104"
+    } ],
+    "teacher" : {
+      "name" : "Prof. Borzovs",
+      "roomList" : [ ]
+    }
+  }, {
+    "subject" : "Lect2",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student4"
+    }, {
+      "name" : "Student18"
+    }, {
+      "name" : "Student27"
+    }, {
+      "name" : "Student29"
+    }, {
+      "name" : "Student36"
+    }, {
+      "name" : "Student41"
+    }, {
+      "name" : "Student42"
+    }, {
+      "name" : "Student51"
+    }, {
+      "name" : "Student69"
+    }, {
+      "name" : "Student77"
+    }, {
+      "name" : "Student83"
+    }, {
+      "name" : "Student97"
+    }, {
+      "name" : "Student109"
+    } ],
+    "teacher" : {
+      "name" : "Prof. Kloviņs",
+      "roomList" : [ ]
+    }
+  }, {
+    "subject" : "Lect3",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student3"
+    }, {
+      "name" : "Student23"
+    }, {
+      "name" : "Student35"
+    }, {
+      "name" : "Student50"
+    }, {
+      "name" : "Student61"
+    }, {
+      "name" : "Student70"
+    }, {
+      "name" : "Student78"
+    }, {
+      "name" : "Student98"
+    }, {
+      "name" : "Student107"
+    } ],
+    "teacher" : {
+      "name" : "Prof. Ambainis",
+      "roomList" : [ ]
+    }
+  }, {
+    "subject" : "Lect4",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student5"
+    }, {
+      "name" : "Student20"
+    }, {
+      "name" : "Student22"
+    }, {
+      "name" : "Student25"
+    }, {
+      "name" : "Student48"
+    }, {
+      "name" : "Student57"
+    }, {
+      "name" : "Student68"
+    }, {
+      "name" : "Student84"
+    }, {
+      "name" : "Student86"
+    }, {
+      "name" : "Student88"
+    }, {
+      "name" : "Student99"
+    }, {
+      "name" : "Student119"
+    } ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect5",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student2"
+    }, {
+      "name" : "Student59"
+    }, {
+      "name" : "Student81"
+    }, {
+      "name" : "Student85"
+    }, {
+      "name" : "Student89"
+    }, {
+      "name" : "Student90"
+    }, {
+      "name" : "Student92"
+    }, {
+      "name" : "Student94"
+    }, {
+      "name" : "Student103"
+    }, {
+      "name" : "Student108"
+    }, {
+      "name" : "Student116"
+    } ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect6",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student12"
+    }, {
+      "name" : "Student16"
+    }, {
+      "name" : "Student17"
+    }, {
+      "name" : "Student38"
+    }, {
+      "name" : "Student40"
+    }, {
+      "name" : "Student49"
+    }, {
+      "name" : "Student64"
+    }, {
+      "name" : "Student96"
+    }, {
+      "name" : "Student105"
+    }, {
+      "name" : "Student110"
+    }, {
+      "name" : "Student112"
+    }, {
+      "name" : "Student115"
+    } ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect7",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student13"
+    }, {
+      "name" : "Student24"
+    }, {
+      "name" : "Student30"
+    }, {
+      "name" : "Student39"
+    }, {
+      "name" : "Student53"
+    }, {
+      "name" : "Student56"
+    }, {
+      "name" : "Student72"
+    }, {
+      "name" : "Student73"
+    }, {
+      "name" : "Student87"
+    }, {
+      "name" : "Student100"
+    }, {
+      "name" : "Student102"
+    }, {
+      "name" : "Student106"
+    }, {
+      "name" : "Student118"
+    } ],
+    "teacher" : {
+      "name" : "Prof. Podnieks",
+      "roomList" : [ ]
+    }
+  }, {
+    "subject" : "Lect8",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : {
+      "name" : "Prof. Vīksna",
+      "roomList" : [ ]
+    }
+  }, {
+    "subject" : "Lect9",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student6"
+    }, {
+      "name" : "Student8"
+    }, {
+      "name" : "Student26"
+    }, {
+      "name" : "Student28"
+    }, {
+      "name" : "Student31"
+    }, {
+      "name" : "Student37"
+    }, {
+      "name" : "Student45"
+    }, {
+      "name" : "Student58"
+    }, {
+      "name" : "Student66"
+    }, {
+      "name" : "Student80"
+    }, {
+      "name" : "Student82"
+    }, {
+      "name" : "Student113"
+    }, {
+      "name" : "Student117"
+    } ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect10",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student14"
+    }, {
+      "name" : "Student15"
+    }, {
+      "name" : "Student33"
+    }, {
+      "name" : "Student60"
+    }, {
+      "name" : "Student62"
+    }, {
+      "name" : "Student67"
+    }, {
+      "name" : "Student76"
+    }, {
+      "name" : "Student114"
+    } ],
+    "teacher" : {
+      "name" : "Prof. Čerāns",
+      "roomList" : [ ]
+    }
+  }, {
+    "subject" : "Lect11",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student1"
+    }, {
+      "name" : "Student9"
+    }, {
+      "name" : "Student11"
+    }, {
+      "name" : "Student19"
+    }, {
+      "name" : "Student43"
+    }, {
+      "name" : "Student93"
+    } ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect12",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student7"
+    }, {
+      "name" : "Student10"
+    }, {
+      "name" : "Student21"
+    }, {
+      "name" : "Student34"
+    }, {
+      "name" : "Student44"
+    }, {
+      "name" : "Student55"
+    }, {
+      "name" : "Student71"
+    }, {
+      "name" : "Student75"
+    }, {
+      "name" : "Student101"
+    } ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect13",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect14",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect15",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ {
+      "name" : "Student32"
+    }, {
+      "name" : "Student46"
+    }, {
+      "name" : "Student63"
+    }, {
+      "name" : "Student74"
+    }, {
+      "name" : "Student79"
+    }, {
+      "name" : "Student91"
+    }, {
+      "name" : "Student95"
+    }, {
+      "name" : "Student111"
+    }, {
+      "name" : "Student120"
+    } ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect16",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect17",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect18",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect19",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect20",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect21",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect22",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect23",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect24",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect25",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect26",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect27",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect28",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect29",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect30",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect31",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect32",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect33",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect34",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect35",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect36",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect37",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect38",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect39",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect40",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect41",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect42",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect43",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect44",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect45",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect46",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect47",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect48",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect49",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect50",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect51",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect52",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect53",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect54",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect55",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect56",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect57",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect58",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect59",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect60",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect61",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect62",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect63",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect64",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect65",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect66",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect67",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect68",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect69",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect70",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect71",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect72",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect73",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect74",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect75",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect76",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect77",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect78",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect79",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect80",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect81",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect82",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect83",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect84",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect85",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect86",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect87",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect88",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect89",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect90",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect91",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect92",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect93",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect94",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect95",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect96",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect97",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect98",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect99",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect100",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect101",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect102",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect103",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect104",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect105",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect106",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect107",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect108",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect109",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect110",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect111",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect112",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect113",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect114",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect115",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect116",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect117",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect118",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect119",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect120",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect121",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect122",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect123",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect124",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect125",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect126",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect127",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect128",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect129",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect130",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect131",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect132",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect133",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect134",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect135",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect136",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect137",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect138",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect139",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect140",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect141",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect142",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect143",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect144",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect145",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect146",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect147",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect148",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect149",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect150",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect151",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect152",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect153",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect154",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect155",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect156",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect157",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect158",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect159",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect160",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect161",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect162",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect163",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect164",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect165",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect166",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect167",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect168",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect169",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect170",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect171",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect172",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect173",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect174",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect175",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect176",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect177",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect178",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect179",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect180",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect181",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect182",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect183",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect184",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect185",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect186",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect187",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect188",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect189",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect190",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect191",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect192",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect193",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect194",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect195",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect196",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect197",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect198",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect199",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect200",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect201",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect202",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect203",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect204",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect205",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect206",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect207",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect208",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect209",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect210",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect211",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect212",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect213",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect214",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect215",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect216",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect217",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect218",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect219",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect220",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect221",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect222",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect223",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect224",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect225",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect226",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect227",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect228",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect229",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect230",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect231",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect232",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect233",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect234",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect235",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect236",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect237",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect238",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect239",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect240",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect241",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect242",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect243",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect244",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect245",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect246",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect247",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect248",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect249",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect250",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect251",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect252",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect253",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect254",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect255",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect256",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect257",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect258",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect259",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect260",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect261",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect262",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect263",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect264",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect265",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect266",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect267",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect268",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect269",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect270",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect271",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect272",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect273",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect274",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect275",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect276",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect277",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect278",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect279",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect280",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect281",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect282",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect283",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect284",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect285",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect286",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect287",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect288",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect289",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect290",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect291",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect292",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect293",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect294",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect295",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect296",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect297",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect298",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect299",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect300",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect301",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect302",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect303",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect304",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect305",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect306",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect307",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect308",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect309",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect310",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect311",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect312",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect313",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect314",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect315",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect316",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect317",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect318",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect319",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect320",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect321",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect322",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect323",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect324",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect325",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect326",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect327",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect328",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect329",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect330",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect331",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect332",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect333",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect334",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect335",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect336",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect337",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect338",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect339",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect340",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect341",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect342",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect343",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect344",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect345",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect346",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect347",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect348",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect349",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect350",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect351",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect352",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect353",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect354",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect355",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect356",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect357",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect358",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect359",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect360",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect361",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect362",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect363",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect364",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect365",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect366",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect367",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect368",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect369",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect370",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect371",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect372",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect373",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect374",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect375",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student6", "Student8", "Student26", "Student28", "Student31", "Student37", "Student45", "Student58", "Student66", "Student80", "Student82", "Student113", "Student117" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect376",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect377",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect378",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect379",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student13", "Student24", "Student30", "Student39", "Student53", "Student56", "Student72", "Student73", "Student87", "Student100", "Student102", "Student106", "Student118" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect380",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect381",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student2", "Student59", "Student81", "Student85", "Student89", "Student90", "Student92", "Student94", "Student103", "Student108", "Student116" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect382",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect383",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect384",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student4", "Student18", "Student27", "Student29", "Student36", "Student41", "Student42", "Student51", "Student69", "Student77", "Student83", "Student97", "Student109" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect385",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect386",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student3", "Student23", "Student35", "Student50", "Student61", "Student70", "Student78", "Student98", "Student107" ],
+    "teacher" : "Prof. Vīksna"
+  }, {
+    "subject" : "Lect387",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect388",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect389",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student5", "Student20", "Student22", "Student25", "Student48", "Student57", "Student68", "Student84", "Student86", "Student88", "Student99", "Student119" ],
+    "teacher" : "Prof. Kloviņs"
+  }, {
+    "subject" : "Lect390",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect391",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student1", "Student9", "Student11", "Student19", "Student43", "Student93" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect392",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student12", "Student16", "Student17", "Student38", "Student40", "Student49", "Student64", "Student96", "Student105", "Student110", "Student112", "Student115" ],
+    "teacher" : "Prof. Ambainis"
+  }, {
+    "subject" : "Lect393",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect394",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student32", "Student46", "Student63", "Student74", "Student79", "Student91", "Student95", "Student111", "Student120" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect395",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect396",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student47", "Student52", "Student54", "Student65", "Student104" ],
+    "teacher" : "Prof. Borzovs"
+  }, {
+    "subject" : "Lect397",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Podnieks"
+  }, {
+    "subject" : "Lect398",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student7", "Student10", "Student21", "Student34", "Student44", "Student55", "Student71", "Student75", "Student101" ],
+    "teacher" : "Prof. Čerāns"
+  }, {
+    "subject" : "Lect399",
+    "room" : null,
+    "timeSlot" : null,
+    "registered" : [ "Student14", "Student15", "Student33", "Student60", "Student62", "Student67", "Student76", "Student114" ],
+    "teacher" : "Prof. Vīksna"
+  } ],
+  "roomList" : [ {
+    "code" : "Room1",
+    "maxNumberOfStudents" : 14,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room2",
+    "maxNumberOfStudents" : 52,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room3",
+    "maxNumberOfStudents" : 9,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room4",
+    "maxNumberOfStudents" : 59,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room5",
+    "maxNumberOfStudents" : 36,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room6",
+    "maxNumberOfStudents" : 55,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room7",
+    "maxNumberOfStudents" : 20,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room8",
+    "maxNumberOfStudents" : 62,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room9",
+    "maxNumberOfStudents" : 52,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room10",
+    "maxNumberOfStudents" : 64,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Room11",
+    "maxNumberOfStudents" : 25,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  }, {
+    "code" : "Aula",
+    "maxNumberOfStudents" : 150,
+    "lectureList" : [ ],
+    "averageStudentNumber" : null
+  } ],
+  "timeSlotList" : [ {
+    "id" : 0,
+    "dayOfWeek" : "MONDAY",
+    "startTime" : [ 8, 30 ],
+    "endTime" : [ 10, 10 ]
+  }, {
+    "id" : 1,
+    "dayOfWeek" : "MONDAY",
+    "startTime" : [ 10, 30 ],
+    "endTime" : [ 12, 10 ]
+  }, {
+    "id" : 2,
+    "dayOfWeek" : "MONDAY",
+    "startTime" : [ 12, 30 ],
+    "endTime" : [ 14, 10 ]
+  }, {
+    "id" : 3,
+    "dayOfWeek" : "MONDAY",
+    "startTime" : [ 14, 30 ],
+    "endTime" : [ 16, 10 ]
+  }, {
+    "id" : 4,
+    "dayOfWeek" : "MONDAY",
+    "startTime" : [ 16, 30 ],
+    "endTime" : [ 18, 10 ]
+  }, {
+    "id" : 5,
+    "dayOfWeek" : "MONDAY",
+    "startTime" : [ 18, 30 ],
+    "endTime" : [ 20, 10 ]
+  }, {
+    "id" : 6,
+    "dayOfWeek" : "MONDAY",
+    "startTime" : [ 20, 30 ],
+    "endTime" : [ 22, 10 ]
+  }, {
+    "id" : 7,
+    "dayOfWeek" : "TUESDAY",
+    "startTime" : [ 8, 30 ],
+    "endTime" : [ 10, 10 ]
+  }, {
+    "id" : 8,
+    "dayOfWeek" : "TUESDAY",
+    "startTime" : [ 10, 30 ],
+    "endTime" : [ 12, 10 ]
+  }, {
+    "id" : 9,
+    "dayOfWeek" : "TUESDAY",
+    "startTime" : [ 12, 30 ],
+    "endTime" : [ 14, 10 ]
+  }, {
+    "id" : 10,
+    "dayOfWeek" : "TUESDAY",
+    "startTime" : [ 14, 30 ],
+    "endTime" : [ 16, 10 ]
+  }, {
+    "id" : 11,
+    "dayOfWeek" : "TUESDAY",
+    "startTime" : [ 16, 30 ],
+    "endTime" : [ 18, 10 ]
+  }, {
+    "id" : 12,
+    "dayOfWeek" : "TUESDAY",
+    "startTime" : [ 18, 30 ],
+    "endTime" : [ 20, 10 ]
+  }, {
+    "id" : 13,
+    "dayOfWeek" : "TUESDAY",
+    "startTime" : [ 20, 30 ],
+    "endTime" : [ 22, 10 ]
+  }, {
+    "id" : 14,
+    "dayOfWeek" : "WEDNESDAY",
+    "startTime" : [ 8, 30 ],
+    "endTime" : [ 10, 10 ]
+  }, {
+    "id" : 15,
+    "dayOfWeek" : "WEDNESDAY",
+    "startTime" : [ 10, 30 ],
+    "endTime" : [ 12, 10 ]
+  }, {
+    "id" : 16,
+    "dayOfWeek" : "WEDNESDAY",
+    "startTime" : [ 12, 30 ],
+    "endTime" : [ 14, 10 ]
+  }, {
+    "id" : 17,
+    "dayOfWeek" : "WEDNESDAY",
+    "startTime" : [ 14, 30 ],
+    "endTime" : [ 16, 10 ]
+  }, {
+    "id" : 18,
+    "dayOfWeek" : "WEDNESDAY",
+    "startTime" : [ 16, 30 ],
+    "endTime" : [ 18, 10 ]
+  }, {
+    "id" : 19,
+    "dayOfWeek" : "WEDNESDAY",
+    "startTime" : [ 18, 30 ],
+    "endTime" : [ 20, 10 ]
+  }, {
+    "id" : 20,
+    "dayOfWeek" : "WEDNESDAY",
+    "startTime" : [ 20, 30 ],
+    "endTime" : [ 22, 10 ]
+  }, {
+    "id" : 21,
+    "dayOfWeek" : "THURSDAY",
+    "startTime" : [ 8, 30 ],
+    "endTime" : [ 10, 10 ]
+  }, {
+    "id" : 22,
+    "dayOfWeek" : "THURSDAY",
+    "startTime" : [ 10, 30 ],
+    "endTime" : [ 12, 10 ]
+  }, {
+    "id" : 23,
+    "dayOfWeek" : "THURSDAY",
+    "startTime" : [ 12, 30 ],
+    "endTime" : [ 14, 10 ]
+  }, {
+    "id" : 24,
+    "dayOfWeek" : "THURSDAY",
+    "startTime" : [ 14, 30 ],
+    "endTime" : [ 16, 10 ]
+  }, {
+    "id" : 25,
+    "dayOfWeek" : "THURSDAY",
+    "startTime" : [ 16, 30 ],
+    "endTime" : [ 18, 10 ]
+  }, {
+    "id" : 26,
+    "dayOfWeek" : "THURSDAY",
+    "startTime" : [ 18, 30 ],
+    "endTime" : [ 20, 10 ]
+  }, {
+    "id" : 27,
+    "dayOfWeek" : "THURSDAY",
+    "startTime" : [ 20, 30 ],
+    "endTime" : [ 22, 10 ]
+  }, {
+    "id" : 28,
+    "dayOfWeek" : "FRIDAY",
+    "startTime" : [ 8, 30 ],
+    "endTime" : [ 10, 10 ]
+  }, {
+    "id" : 29,
+    "dayOfWeek" : "FRIDAY",
+    "startTime" : [ 10, 30 ],
+    "endTime" : [ 12, 10 ]
+  }, {
+    "id" : 30,
+    "dayOfWeek" : "FRIDAY",
+    "startTime" : [ 12, 30 ],
+    "endTime" : [ 14, 10 ]
+  }, {
+    "id" : 31,
+    "dayOfWeek" : "FRIDAY",
+    "startTime" : [ 14, 30 ],
+    "endTime" : [ 16, 10 ]
+  }, {
+    "id" : 32,
+    "dayOfWeek" : "FRIDAY",
+    "startTime" : [ 16, 30 ],
+    "endTime" : [ 18, 10 ]
+  }, {
+    "id" : 33,
+    "dayOfWeek" : "FRIDAY",
+    "startTime" : [ 18, 30 ],
+    "endTime" : [ 20, 10 ]
+  }, {
+    "id" : 34,
+    "dayOfWeek" : "FRIDAY",
+    "startTime" : [ 20, 30 ],
+    "endTime" : [ 22, 10 ]
+  } ],
+  "studentList" : [ "Student1", "Student2", "Student3", "Student4", "Student5", "Student6", "Student7", "Student8", "Student9", "Student10", "Student11", "Student12", "Student13", "Student14", "Student15", "Student16", "Student17", "Student18", "Student19", "Student20", "Student21", "Student22", "Student23", "Student24", "Student25", "Student26", "Student27", "Student28", "Student29", "Student30", "Student31", "Student32", "Student33", "Student34", "Student35", "Student36", "Student37", "Student38", "Student39", "Student40", "Student41", "Student42", "Student43", "Student44", "Student45", "Student46", "Student47", "Student48", "Student49", "Student50", "Student51", "Student52", "Student53", "Student54", "Student55", "Student56", "Student57", "Student58", "Student59", "Student60", "Student61", "Student62", "Student63", "Student64", "Student65", "Student66", "Student67", "Student68", "Student69", "Student70", "Student71", "Student72", "Student73", "Student74", "Student75", "Student76", "Student77", "Student78", "Student79", "Student80", "Student81", "Student82", "Student83", "Student84", "Student85", "Student86", "Student87", "Student88", "Student89", "Student90", "Student91", "Student92", "Student93", "Student94", "Student95", "Student96", "Student97", "Student98", "Student99", "Student100", "Student101", "Student102", "Student103", "Student104", "Student105", "Student106", "Student107", "Student108", "Student109", "Student110", "Student111", "Student112", "Student113", "Student114", "Student115", "Student116", "Student117", "Student118", "Student119", "Student120" ],
+  "teacherList" : [ "Prof. Kloviņs", "Prof. Vīksna", "Prof. Podnieks", "Prof. Čerāns", "Prof. Ambainis", "Prof. Borzovs" ],
+  "score" : null
+}

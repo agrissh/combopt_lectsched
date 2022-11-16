@@ -15,14 +15,14 @@ public class LectureSchedule {
     @PlanningEntityCollectionProperty
     private List<Lecture> lectureList;
     @ValueRangeProvider(id = "rooms")
-    @ProblemFactCollectionProperty
+    @PlanningEntityCollectionProperty
     private List<Room> roomList;
     @ValueRangeProvider(id = "timeslots")
     @ProblemFactCollectionProperty
     private List<TimeSlot> timeSlotList;
     @ProblemFactCollectionProperty
     private List<Student> studentList;
-    @ProblemFactCollectionProperty
+    @PlanningEntityCollectionProperty
     private List<Teacher> teacherList;
 
     @PlanningScore

@@ -2,12 +2,14 @@
 <solver xmlns="https://www.optaplanner.org/xsd/solver" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="https://www.optaplanner.org/xsd/solver https://www.optaplanner.org/xsd/solver/solver.xsd">
     <!-- To slowly prove there are no bugs in this code -->
-    <!--<environmentMode>FULL_ASSERT</environmentMode>-->
+   <!--<environmentMode>FULL_ASSERT</environmentMode>-->
     <!-- To solve faster by saturating multiple CPU cores -->
     <!--<moveThreadCount>AUTO</moveThreadCount>-->
 
     <solutionClass>lv.lu.df.combopt.lectsched.domain.LectureSchedule</solutionClass>
     <entityClass>lv.lu.df.combopt.lectsched.domain.Lecture</entityClass>
+    <entityClass>lv.lu.df.combopt.lectsched.domain.Room</entityClass>
+    <entityClass>lv.lu.df.combopt.lectsched.domain.Teacher</entityClass>
 
     <scoreDirectorFactory>
         <!--<easyScoreCalculatorClass>lv.lu.df.combopt.lectsched.score.LectureSchedulerEasyScoreCalculator</easyScoreCalculatorClass>-->
@@ -24,7 +26,7 @@
 
     <termination>
         <terminationCompositionStyle>OR</terminationCompositionStyle>
-        <millisecondsSpentLimit>250</millisecondsSpentLimit>
+        <millisecondsSpentLimit>500</millisecondsSpentLimit>
         <bestScoreLimit>0hard/0soft</bestScoreLimit>
     </termination>
 
