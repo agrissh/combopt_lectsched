@@ -49,7 +49,7 @@ public class TimeSlot {
 
     @Override
     public String toString() {
-        return this.getStartTime().toString();
+        return this.getDayOfWeek().toString() + " " + this.getStartTime().toString();
     }
 
     public Integer getId() {

@@ -26,7 +26,7 @@
 
     <termination>
         <terminationCompositionStyle>OR</terminationCompositionStyle>
-        <millisecondsSpentLimit>500</millisecondsSpentLimit>
+        <unimprovedSecondsSpentLimit>5</unimprovedSecondsSpentLimit>
         <bestScoreLimit>0hard/0soft</bestScoreLimit>
     </termination>
 

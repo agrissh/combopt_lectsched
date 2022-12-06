@@ -24,10 +24,10 @@ public class App {
 
     public static void main(String[] args) {
         LOGGER.debug("Scheduler start!");
-        SolverFactory<LectureSchedule> solverFactory = SolverFactory.create(SolverConfig.createFromXmlResource("lv/lu/df/combopt/lectsched/solverConfig.xml"));
+        //SolverFactory<LectureSchedule> solverFactory = SolverFactory.create(SolverConfig.createFromXmlResource("lv/lu/df/combopt/lectsched/solverConfig.xml"));
 
         // Load the problem
-        LectureSchedule problem = generateData();
+        //LectureSchedule problem = generateData();
 
         // Solve the problem
         //Solver<LectureSchedule> solver = solverFactory.buildSolver();
@@ -49,7 +49,7 @@ public class App {
         //printSchedule(solution);
     }
 
-    public static LectureSchedule generateData() {
+    /* public static LectureSchedule generateData() {
 
         List<TimeSlot> timeslotList = new LinkedList<>();
         timeslotList.add(new TimeSlot(DayOfWeek.MONDAY, LocalTime.of(10,30), LocalTime.of(12, 10)));
@@ -135,5 +135,5 @@ public class App {
                 LOGGER.info("  " + lecture.getSubject() + " - " + lecture.getTeacher());
             }
         }
-    }
+    }*/
 }

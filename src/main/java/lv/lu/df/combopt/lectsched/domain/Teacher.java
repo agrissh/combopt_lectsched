@@ -42,4 +42,9 @@ public class Teacher {
     public void setRoomList(Set<Room> roomList) {
         this.roomList = roomList;
     }
+
+    @Override
+    public String toString() {
+        return this.getName();
+    }
 }
