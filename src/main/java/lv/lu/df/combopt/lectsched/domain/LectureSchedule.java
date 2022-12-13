@@ -6,6 +6,7 @@ import org.optaplanner.core.api.domain.solution.PlanningScore;
 import org.optaplanner.core.api.domain.solution.PlanningSolution;
 import org.optaplanner.core.api.domain.solution.ProblemFactCollectionProperty;
 import org.optaplanner.core.api.domain.valuerange.ValueRangeProvider;
+import org.optaplanner.core.api.score.buildin.hardmediumsoft.HardMediumSoftScore;
 import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScore;
 import org.optaplanner.core.api.score.constraint.Indictment;
 
@@ -29,7 +30,7 @@ public class LectureSchedule {
     private List<Teacher> teacherList;
 
     @PlanningScore
-    private HardSoftScore score;
+    private HardMediumSoftScore score;
 
     private Long id;
 
@@ -52,14 +53,21 @@ public class LectureSchedule {
     }
 
     @JsonIgnore
-    public String getScoreIndictmentsText(Object object, Indictment<HardSoftScore> indictment) {
-        if (indictment == null || (indictment.getScore().getHardScore() == 0 && indictment.getScore().getSoftScore() == 0)) {
+    public String getScoreIndictmentsText(Object object, Indictment<HardMediumSoftScore> indictment) {
+        if (indictment == null || (indictment.getScore().getHardScore() == 0 && indictment.getScore().getMediumScore() == 0 && indictment.getScore().getSoftScore() == 0)) {
             return "no impact";
         }
         return "<b>Total score: " + indictment.getScore() + "</b><br />"
                 + indictment.getConstraintMatchSet().stream()
                 .map(constraintMatch -> constraintMatch.getConstraintName() + " = " + constraintMatch.getScore())
                 .collect(Collectors.joining("<br />"));
+    }
+
+    @JsonIgnore
+    public List<Lecture> getUnassignedLectures() {
+        return this.getLectureList().stream()
+                .filter(lecture -> lecture.getRoom() == null)
+                .collect(Collectors.toList());
     }
 
     public List<Lecture> getLectureList() {
@@ -102,11 +110,11 @@ public class LectureSchedule {
         this.teacherList = teacherList;
     }
 
-    public HardSoftScore getScore() {
+    public HardMediumSoftScore getScore() {
         return score;
     }
 
-    public void setScore(HardSoftScore score) {
+    public void setScore(HardMediumSoftScore score) {
         this.score = score;
     }
 

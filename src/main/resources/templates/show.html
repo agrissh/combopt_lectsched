@@ -13,6 +13,16 @@
 </div>
 
 <div class="container p-0 m-0">
+    <span th:each="lect: ${grafiks.getUnassignedLectures()}">
+        <a data-bs-toggle="popover"
+           th:title="${lect}"
+           data-th-attr="data-bs-content=${grafiks.getScoreIndictmentsText(lect, indictmentMap.get(lect))}"
+           data-bs-html="true">
+                        <span th:utext="${lect.getTeacher()}"
+                              th:attr="class=${indictmentMap.get(lect) == null || indictmentMap.get(lect).getScore().getHardScore() == 0 ? 'badge bg-warning' : 'badge bg-danger'}">
+                        </span>
+        </a>
+    </span>
     <table class="table table-dark">
         <thead>
         <tr>

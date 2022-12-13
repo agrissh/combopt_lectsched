@@ -27,7 +27,7 @@
     <termination>
         <terminationCompositionStyle>OR</terminationCompositionStyle>
         <unimprovedSecondsSpentLimit>5</unimprovedSecondsSpentLimit>
-        <bestScoreLimit>0hard/0soft</bestScoreLimit>
+        <bestScoreLimit>0hard/0medium/0soft</bestScoreLimit>
     </termination>
 
     <constructionHeuristic>

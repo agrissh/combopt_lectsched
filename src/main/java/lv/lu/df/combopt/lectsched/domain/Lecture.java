@@ -3,6 +3,7 @@ package lv.lu.df.combopt.lectsched.domain;
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 import org.optaplanner.core.api.domain.entity.PlanningEntity;
+import org.optaplanner.core.api.domain.entity.PlanningPin;
 import org.optaplanner.core.api.domain.lookup.PlanningId;
 import org.optaplanner.core.api.domain.variable.PlanningVariable;
 
@@ -15,12 +16,14 @@ import java.util.List;
 public class Lecture {
     @PlanningId
     private String subject;
-    @PlanningVariable(valueRangeProviderRefs = "rooms")
+    @PlanningVariable(valueRangeProviderRefs = "rooms", nullable = true)
     private Room room;
     @PlanningVariable(valueRangeProviderRefs = "timeslots")
     private TimeSlot timeSlot;
     private List<Student> registered;
     private Teacher teacher;
+
+    private Boolean pinned;
 
     public Lecture() {
         setRegistered(new LinkedList<>());
@@ -77,5 +80,14 @@ public class Lecture {
     @Override
     public String toString() {
         return this.getSubject();
+    }
+
+    @PlanningPin
+    public Boolean getPinned() {
+        return pinned != null && pinned;
+    }
+
+    public void setPinned(Boolean pinned) {
+        this.pinned = pinned;
     }
 }
