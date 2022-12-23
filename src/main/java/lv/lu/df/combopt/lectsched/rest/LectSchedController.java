@@ -3,6 +3,7 @@ package lv.lu.df.combopt.lectsched.rest;
 import lv.lu.df.combopt.lectsched.domain.LectureSchedule;
 import lv.lu.df.combopt.lectsched.domain.LectureScheduleJsonSolutionFileIO;
 import lv.lu.df.combopt.lectsched.domain.Room;
+import lv.lu.df.combopt.lectsched.ortools.ORToolsNQueens;
 import org.optaplanner.core.api.score.ScoreManager;
 import org.optaplanner.core.api.score.buildin.hardmediumsoft.HardMediumSoftScore;
 import org.optaplanner.core.api.score.buildin.hardsoft.HardSoftScore;
@@ -40,6 +41,13 @@ public class LectSchedController {
         LectureSchedule problem = fileIO.read(new File("data/problem.json"));
         solverManager.solve(1l, problem);
         return "Hi!";
+    }
+
+    @GetMapping("/or")
+    @ResponseBody
+    public String or() {
+        ORToolsNQueens.run();
+        return "ORTools!";
     }
 
     @PostMapping("/solve")

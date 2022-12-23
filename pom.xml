@@ -46,7 +46,14 @@
             <artifactId>logback-classic</artifactId>
             <scope>runtime</scope>
         </dependency>
-      -->
+      --><!-- https://mvnrepository.com/artifact/com.google.ortools/ortools-java -->
+        <dependency>
+            <groupId>com.google.ortools</groupId>
+            <artifactId>ortools-java</artifactId>
+            <version>9.5.2237</version>
+        </dependency>
+
+
         <dependency>
             <groupId>org.optaplanner</groupId>
             <artifactId>optaplanner-benchmark</artifactId>
